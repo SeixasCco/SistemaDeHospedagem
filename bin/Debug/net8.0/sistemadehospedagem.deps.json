@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sistemadehospedagem/1.0.0": {
+        "runtime": {
+          "sistemadehospedagem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sistemadehospedagem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Cliente 5485\Desktop\c#\sistemadehospedagem\bin\Debug\net8.0\sistemadehospedagem.exe
+C:\Users\Cliente 5485\Desktop\c#\sistemadehospedagem\bin\Debug\net8.0\sistemadehospedagem.deps.json
+C:\Users\Cliente 5485\Desktop\c#\sistemadehospedagem\bin\Debug\net8.0\sistemadehospedagem.runtimeconfig.json
+C:\Users\Cliente 5485\Desktop\c#\sistemadehospedagem\bin\Debug\net8.0\sistemadehospedagem.dll
+C:\Users\Cliente 5485\Desktop\c#\sistemadehospedagem\bin\Debug\net8.0\sistemadehospedagem.pdb
+C:\Users\Cliente 5485\Desktop\c#\sistemadehospedagem\obj\Debug\net8.0\sistemadehospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente 5485\Desktop\c#\sistemadehospedagem\obj\Debug\net8.0\sistemadehospedagem.AssemblyInfoInputs.cache
+C:\Users\Cliente 5485\Desktop\c#\sistemadehospedagem\obj\Debug\net8.0\sistemadehospedagem.AssemblyInfo.cs
+C:\Users\Cliente 5485\Desktop\c#\sistemadehospedagem\obj\Debug\net8.0\sistemadehospedagem.csproj.CoreCompileInputs.cache
+C:\Users\Cliente 5485\Desktop\c#\sistemadehospedagem\obj\Debug\net8.0\sistemadehospedagem.dll
+C:\Users\Cliente 5485\Desktop\c#\sistemadehospedagem\obj\Debug\net8.0\refint\sistemadehospedagem.dll
+C:\Users\Cliente 5485\Desktop\c#\sistemadehospedagem\obj\Debug\net8.0\sistemadehospedagem.pdb
+C:\Users\Cliente 5485\Desktop\c#\sistemadehospedagem\obj\Debug\net8.0\sistemadehospedagem.genruntimeconfig.cache
+C:\Users\Cliente 5485\Desktop\c#\sistemadehospedagem\obj\Debug\net8.0\ref\sistemadehospedagem.dll
